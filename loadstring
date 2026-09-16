@@ -1,0 +1,13 @@
+-- VapeV4ForRoblox 中文汉化版
+-- 原 loadstring:
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+--
+-- 中文版使用方法:
+-- 1. 下载此压缩包中的所有文件
+-- 2. 将 NewMainScript.lua 和 src 文件夹放入你的执行器工作目录
+-- 3. 执行 NewMainScript.lua
+--
+-- 或者使用本地加载:
+-- loadstring(readfile("NewMainScript.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
